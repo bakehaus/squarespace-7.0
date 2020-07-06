@@ -1,0 +1,7 @@
+.sqs-editable-button {
+    font-size: 11px !important;
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+    padding-left: 20px;
+    padding-right: 20px;
+}
