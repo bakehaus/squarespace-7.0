@@ -1,0 +1,3 @@
+.collection-[page-id] #[div-id] {
+	display: none !important
+}
